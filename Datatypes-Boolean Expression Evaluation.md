@@ -26,7 +26,8 @@ print(f"c: {c}")
 print(f"d: {d}")
 ```
 ## Output
-![Uploading image.png…]()
+<img width="1133" height="312" alt="image" src="https://github.com/user-attachments/assets/f9410599-d6cd-4942-bce2-fe26c37cf5ab" />
+
 
 ## Result
 Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully.
